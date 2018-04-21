@@ -1,8 +1,0 @@
-<head>
-<table>
-<tr>
-	<td>
-	</td>
-</tr>
-</table>
-</head>
